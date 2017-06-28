@@ -30,9 +30,9 @@ paginate = 10
 		I am a data geek'''
 
 		# The icons will be shown if you enter your username
-		twitter = "http://www.twitter.com/duc_qn"
-		medium = "https://medium.com/@dqn"
-		github = "https://github.com/d-qn"
+		twitter = "duc_qn"
+		medium = "@dqn"
+		github = "d-qn"
 		facebook = ""
 		googleplus = ""
 		flickr = ""
@@ -46,12 +46,12 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "Data journalist / data scientist (recovering geneticist & quant)"
+		title = "Data journalist / data scientist"
 		content = "I am a geneticist, turned data-journalist. I do data cuisine: data & statistical analysis, information visualisation and data storytelling. Enthusiastic about data science, open source and data-driven journalism! Born in Lausanne Switzerland, now working in Bern."
 
 	[params.portfolio]
 		hide  = false
-		title = "Recent Work"
+		title = "Some of my data-driven stories"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
@@ -96,7 +96,7 @@ paginate = 10
 		title = "Recent blog posts"
 
 	[params.contact]
-		hide  = false
+		hide  = true
 		title = "Get In Touch"
 		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
 
@@ -136,6 +136,6 @@ paginate = 10
 	weight = 0
 
 [[menu.main]]
-	name = "Blog"
+	name = "Data blog"
 	url  = "post/"
 	weight = 10

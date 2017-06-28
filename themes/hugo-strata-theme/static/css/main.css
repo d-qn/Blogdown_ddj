@@ -22,7 +22,7 @@
 	}
 
 	body {
-		line-height: 1;
+		line-height: 0.97;
 	}
 
 	ol, ul {
@@ -1618,8 +1618,8 @@
 	}
 
 	h2 {
-		font-size: 1.5em;
-		line-height: 1.5em;
+		font-size: 1.4em;
+		line-height: 1.4em;
 	}
 
 	h3 {
@@ -1740,7 +1740,7 @@
 	}
 
 	header.major h2 {
-		font-size: 2em;
+		font-size: 1.8em;
 	}
 
 /* Form */
@@ -2518,7 +2518,7 @@
 
 		#footer .copyright {
 			color: rgba(255, 255, 255, 0.4);
-			font-size: 0.8em;
+			font-size: 0.65em;
 			list-style: none;
 			margin: 1em 0 0 0;
 			padding: 0;
@@ -2527,7 +2527,7 @@
 			#footer .copyright li {
 				border-left: solid 1px rgba(255, 255, 255, 0.25);
 				display: inline-block;
-				line-height: 1em;
+				line-height: 0.6em;
 				margin-left: 0.75em;
 				padding-left: 0.75em;
 			}
