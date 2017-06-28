@@ -11,7 +11,7 @@ paginate = 10
 [params]
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Your name"
+	name = "Duc-Quang Nguyen"
 	description = "This is the data blog of Duc-Quang Nguyen. I am data geek, data scientist, data journalist"
 
 	# Format dates with Go's time formatting
@@ -28,7 +28,7 @@ paginate = 10
 		bio = '''Hi.
 		My name is Duc-Quang Nguyen.
 		I am a data geek'''
-		
+
 		# The icons will be shown if you enter your username
 		twitter = "http://www.twitter.com/duc_qn"
 		medium = "https://medium.com/@dqn"
