@@ -44,10 +44,9 @@ paginate = 10
 			"Demo Images: [Unsplash](//unsplash.com/)"
 		]
 
-
 	[params.about]
 		hide  = false
-		title = "Journo coder / data scientist / recovering geneticist & quant"
+		title = "Data journalist / data scientist (recovering geneticist & quant)"
 		content = "I am a geneticist, turned data-journalist. I do data cuisine: data & statistical analysis, information visualisation and data storytelling. Enthusiastic about data science, open source and data-driven journalism! Born in Lausanne Switzerland, now working in Bern."
 
 	[params.portfolio]
@@ -119,7 +118,7 @@ paginate = 10
 	    # - send a dummy email yourself to confirm your account
 	    # - click the confirm link in the email from www.formspree.io
 	    # - you're done. Happy mailing!
-		email = "hello@example.com"
+		email = ""
 
 		[params.contact.form]
 			# Set custom strings for the form if your native
