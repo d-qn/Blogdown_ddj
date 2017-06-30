@@ -53,37 +53,37 @@ paginate = 10
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "fulls/01.jpg"
+			url = 'https://www.swissinfo.ch'
 			thumb = "thumbs/01.jpg"
 			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			description = "Lorem ipsum dolor sit amet. [linktest](dqn.website.com)"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/02.jpg"
+			url = "https://www.swissinfo.ch"
 			thumb = "thumbs/02.jpg"
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
+			url = "https://www.swissinfo.ch"
 			thumb = "thumbs/03.jpg"
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
+			url = "https://www.swissinfo.ch"
 			thumb = "thumbs/04.jpg"
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
+			url = "https://www.swissinfo.ch"
 			thumb = "thumbs/05.jpg"
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
+			url = "https://www.swissinfo.ch"
 			thumb = "thumbs/06.jpg"
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
