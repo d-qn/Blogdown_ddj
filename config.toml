@@ -44,7 +44,9 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "Data journalist / data scientist"
-		content = "I am a geneticist, turned data-journalist. I do data cuisine: data & statistical analysis, information visualisation and data storytelling. Enthusiastic about data science, open source and data-driven journalism! Born in Lausanne Switzerland, now working in Bern."
+		content = 'I am a geneticist, turned data-journalist. I do data cuisine: data & statistical analysis, information visualisation and data storytelling. Enthusiastic about data science, open source and data-driven journalism! Born in Lausanne Switzerland, now working in Bern.<br><br>
+I currently perform the full suite of responsibilities associated with leading the data-driven journalism at swissinfo.ch. I also train and support journalists in data journalism and I manage the IT infrastructure for data visualisation.<br><br>
+I hold a Ph.D. in computational biology from Oxford University. I have been mining data for more than 10 years, whether in genetics research, in finance for a hedge fund or for a newsroom. Get in touch for consultancy or if you have data that needs serious digging.'
 
 	[params.portfolio]
 		hide  = false
